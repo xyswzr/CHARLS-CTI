@@ -1,0 +1,42 @@
+{
+  "smoking_missing_prior_to_completecase": 0,
+  "reference_from_archived_R7": {
+    "eligible": 1487,
+    "observed": 1183,
+    "final": 682,
+    "events": 149
+  },
+  "frozen_V22_reference": {
+    "eligible": 1484,
+    "observed": 1182,
+    "final": 676,
+    "events": 145
+  },
+  "actual_from_raw_script": {
+    "eligible": 1484,
+    "observed": 1182,
+    "final": 676,
+    "events": 145
+  },
+  "matches": {
+    "eligible": true,
+    "observed": true,
+    "final": true,
+    "events": true
+  },
+  "method_warnings": [
+    "2020 da002 never-had is code 99, verified against Stata value labels; 2015 disease-branch reconstruction remains under audit.",
+    "CTI formula and primary core covariates follow Manuscript Methods; sensitivity analyses are not all implemented.",
+    "If counts differ, do not alter the source data or thresholds to force agreement.",
+    "Anemia (<12 women, <13 men g/dL) and 2021 CKD-EPI eGFR (>=60) were added as transparent sensitivity definitions."
+  ],
+  "covariate_definitions": {
+    "age": "2015 interview year/month versus birth year/month",
+    "female": "2015 sex code 2",
+    "bmi": "2015 measured weight / measured height squared",
+    "smoking_status": "2015 DA061 still/quit/never, DA059=2 never when DA061 missing; ZA and W3 historical only",
+    "drinking": "2015 da067 in (1,2)",
+    "married": "2015 be001 in (1,2)",
+    "hypertension15": "2015 disease item 1"
+  }
+}

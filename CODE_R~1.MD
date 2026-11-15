@@ -1,0 +1,1 @@
+Review items: 2015 smoking corrected (DA059 ever; DA061 current/quit/never; DA061_W3 previous interview); residual questionnaire routing, historical diagnosis and age-source choices remain to be acknowledged; treatment indicator coding and IPSW are exploratory. Before claiming public availability, upload and verify the repo. Ensure no CHARLS record-level outputs are committed.

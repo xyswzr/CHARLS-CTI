@@ -1,0 +1,8 @@
+CHARLS2015r.zip
+CHARLS2020r.zip
+*.dta
+local_results/
+**/__pycache__/
+*.pyc
+.vscode/
+.ipynb_checkpoints/

@@ -1,0 +1,7 @@
+treatment,status,n,events
+diabetes,explicit_none,26,11
+diabetes,treated,36,11
+diabetes,unasked_or_missing,614,123
+lung,explicit_none,289,53
+lung,treated,375,90
+lung,unasked_or_missing,12,2

@@ -1,0 +1,14 @@
+item,file,verification_status
+Table 1,Table1_descriptive.csv,Recalculated; column formatting differs from manuscript
+Table 2,raw_main_models.csv,Recalculated by main script; not exact manuscript cohort
+S1,S1_included_excluded.csv,Recalculated aggregate
+S2,S2_cti_quartile.csv,Recalculated aggregate
+S3,raw_sensitivity_models.csv,Now includes anemia and 2021 CKD-EPI eGFR; cohort still provisional
+S4,S4_variable_dictionary.csv,"Source map, full audit incomplete"
+S5,S5_selection_flow.csv,Recalculated cohort flow
+S6,S6_cti_components.csv,Recalculated exploratory
+S7,S7_IPSW_exploratory.csv and S7_blood_weight_exploratory.csv,Exploratory; weights may differ
+S8,S8_age_selection.csv,Recalculated
+S9,S9_topcoding_scenarios.csv,Recalculated exploratory
+S10,S10_treatment_adjustment_provisional.csv,Provisional indicator coding
+RCS,RCS_curves_4knot.csv; RCS_tests_4knot.csv,4-knot RCS 5/35/65/95 percentiles with full cluster covariance; cohort still provisional

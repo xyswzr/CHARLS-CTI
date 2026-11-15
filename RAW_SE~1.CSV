@@ -1,0 +1,7 @@
+stage,n,events_observed
+"2015 aged >=45, lung disease, no baseline heart disease",1484,234
+2020 heart-disease response observed,1182,234
+HbA1c observed,825,172
+Fasting blood draw,705,152
+Positive CTI components,703,152
+Complete chosen covariates,676,145

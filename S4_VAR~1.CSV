@@ -1,0 +1,10 @@
+construct,raw_columns
+lung baseline,"zda007_5_, zda008_5_, da007_w2_1_5_, da007_w2_2_5_, da007_5_"
+heart baseline,"zda007_7_, da007_w2_1_7_, da007_w2_2_7_, da007_7_"
+hypertension baseline,"zda007_1_, zda008_1_, da007_w2_1_1_, da007_w2_2_1_, da007_1_"
+heart/lung followup,"zdisease_5_/7_, da002_5_/7_, da003_5_/7_"
+biomarkers,"bl_hbalc, bl_tg, bl_glu, bl_crp, bl_fasting"
+weight and height,ql002 and qi002
+smoking,"zda059,da059,da061_w3,da061"
+diabetes treatments,da014s1 - da014s4
+lung treatments,da010_5_s1 - da010_5_s4

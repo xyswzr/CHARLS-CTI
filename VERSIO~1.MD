@@ -1,0 +1,1 @@
+V22 cohort algorithm retained; V28 source-questionnaire-corrected smoking classification incorporated. N=676, events=145. Do not reuse old V22 model CSV. Disease history and age-source assumptions remain operational and not independently adjudicated. The code uses restricted-access raw CHARLS 2015/2020 releases locally; never publish participant-level data.
